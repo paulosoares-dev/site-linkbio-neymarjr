@@ -6,3 +6,8 @@ O site será uma página simples com duas seções:
 
     Seção Banner;
     Seção Estatísticas.
+
+Aplicado
+* Fundo com video 
+* Borda gradiente
+* H1 com sublinhado gradiente
