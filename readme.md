@@ -11,3 +11,4 @@ Aplicado
 * Fundo com video 
 * Borda gradiente
 * H1 com sublinhado gradiente
+* Table com transparência
